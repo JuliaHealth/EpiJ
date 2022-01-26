@@ -1,0 +1,7 @@
+name = "EpiJ"
+uuid = "ee8f1034-689b-4825-b6d5-5fb11c9c09a7"
+authors = ["Jacob Zelko <jacobszelko@gmail.com>", "Georgia Tech Research Institute"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
