@@ -19,5 +19,8 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/JuliaHealth/EpiJ.jl",
+    repo="github.com/JuliaHealth/EpiJ.jl.git",
+    devbranch = "main",
+    push_preview = false,
+    target = "build"
 )
